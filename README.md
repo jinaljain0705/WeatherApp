@@ -65,15 +65,16 @@ or simply double-click on index.html
 weather-app/
 
 │
-├── index.html         # Main HTML file
 
-├── style.css          # custom styles
+├── index.html                         # Main HTML file
 
-├── script.js          # JavaScript for fetching and displaying weather
+├── style.css                          # custom styles
 
-├── image/             # Folder containing weather icons
+├── script.js                          # JavaScript for fetching and displaying weather
 
-└── README.md          # Project documentation
+├── image/                             # Folder containing weather icons
+
+└── README.md                          # Project documentation
 
 # ⚠️ Notes
 
