@@ -48,7 +48,7 @@ Hover animations and clean design using Tailwind CSS
 
 Clone the repository:
 
-git clone https://github.com/JinalJain/WeatherApp.git
+git clone [https://github.com/JinalJain/WeatherApp.git](https://github.com/jinaljain0705/WeatherApp.git)
 
 Navigate to the project folder:
 
