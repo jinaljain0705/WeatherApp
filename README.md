@@ -89,5 +89,5 @@ OpenWeatherMap API
 Jinal Jain
 
 Output:
-![]()
-![]()
+![weatherApp](https://github.com/jinaljain0705/WeatherApp/blob/main/Output/weatherApp.png)
+![weatherView]()
