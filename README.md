@@ -40,10 +40,6 @@ Shows “Invalid City Name” message if no data found
 
 Fully responsive and works perfectly on mobile, tablet, and desktop devices
 
-# 🧭 Smooth UI
-
-Hover animations and clean design using Tailwind CSS
-
 # ⚡ How to Use
 
 Clone the repository:
