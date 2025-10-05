@@ -13,24 +13,27 @@
 <body>
 
     <div class="card">
-        <div class="search">
-            <input type="text" placeholder="Enter Your City Name" spellcheck="false">
-            <button title="Search">
+        <div id="search-box" class="search">
+            <input id="city-input" type="text" placeholder="Enter Your City Name" spellcheck="false">
+            <button id="search-btn" title="Search">
                 <i class="bi bi-search"></i>
             </button>
         </div>
-        <div class="error">
+
+        <div id="error-message" class="error">
             <p>Invalid City Name</p>
         </div>
-        <div class="weather">
-            <img src="./image/rain-img.png" class="weather-icon" alt="">
-            <h1 class="temp">22°c</h1>
-            <h2 class="city">Mumbai</h2>
+
+        <div id="weather-info" class="weather">
+            <img id="weather-icon" src="./image/rain-img.png" class="weather-icon" alt="">
+            <h1 id="temp" class="temp">22°c</h1>
+            <h2 id="city-name" class="city">Mumbai</h2>
+
             <div class="details">
                 <div class="col">
                     <img src="./image/humidity-img.png" class="weather-icons" alt="">
                     <div>
-                        <p class="humidity">50%</p>
+                        <p id="humidity" class="humidity">50%</p>
                         <p>Humidity</p>
                     </div>
                 </div>
@@ -38,12 +41,11 @@
                 <div class="col">
                     <img src="./image/wind-img.png" class="weather-icons" alt="">
                     <div>
-                        <p class="wind">16 km/h</p>
+                        <p id="wind" class="wind">16 km/h</p>
                         <p>Wind Speed</p>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 
